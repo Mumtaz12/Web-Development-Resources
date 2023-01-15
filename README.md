@@ -13,7 +13,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ---
 
-Initially created by [Mumtaz](https://iammumtaz.com) on [Twitter](https://twitter.com/IAmMumtaz).
+Initially created by [Mumtaz](https://iammumtaz.com) on [Twitter](https://twitter.com/IAmMumtazcs).
 
 ## Table of Contents
 
