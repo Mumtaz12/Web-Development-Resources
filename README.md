@@ -5,7 +5,7 @@ This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
 
-Enjoy!
+Enjoy!!
 
 If you like this repo, be sure to ⭐ it.
 
