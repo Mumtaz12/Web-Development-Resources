@@ -2,7 +2,7 @@
 
 Thank you for contributing to our awesome resources.
 
-## Guidelines
+## Guidelines 
 
 - **One item** per Pull Request.
 
